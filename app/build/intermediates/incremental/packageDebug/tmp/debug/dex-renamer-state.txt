@@ -1,0 +1,4 @@
+#Mon Apr 29 11:10:19 NPT 2019
+base.0=D\:\\android-advanced-master\\android-advanced-master\\WalkMyAndroid-Solution\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
